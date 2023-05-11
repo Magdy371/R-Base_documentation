@@ -1,5 +1,6 @@
 library(Tmisc)
 library(datasauRus)
+library(tidyverse)
 data(quartet)
 #View(quartet)
 #skim_without_charts(quartet)
