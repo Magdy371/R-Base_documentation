@@ -1,4 +1,5 @@
 library(ggplot2)
+library(tidyverse)
 library(palmerpenguins)
 data("penguins")
 View(drop_na(penguins))

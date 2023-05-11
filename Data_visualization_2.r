@@ -7,5 +7,6 @@ ggplot(data  = penguins) +
 ggplot(data  = penguins) + 
   geom_point(mapping = aes(x = bill_length_mm , y = bill_depth_mm))
 
-glimpse(penguins)
-view(penguins)
+
+#glimpse(penguins)
+#view(penguins)
